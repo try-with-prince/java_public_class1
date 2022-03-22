@@ -3,7 +3,9 @@
 
 
 
-//It will suscessfully compiled but  when we run .class file , it will not found the main method.
+//It will suscessfully compiled but  when we run .class file , it will not find the main method 
+// runtime error 
+//java.lang.NoClassDefFoundError: news (wrong name: News)
 
 
 
